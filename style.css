@@ -1,0 +1,70 @@
+body{
+    background-color:#111927;
+    margin-top: 10%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.base{
+    display: flex;
+    justify-content: center;
+}
+
+.formbase{
+    background-color: #1e2b41;
+    height: 300px;
+    width: 400px;
+
+    border-radius: 10px;
+    border-color: #10599e;
+    border-style: solid;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.user{
+    background-color: #111927;
+    height: 40px;
+    width: 300px;
+
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.pin{
+    background-color: #111927;
+    height: 40px;
+    width: 300px;
+
+    border-radius: 10px;
+    border-width: 0px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.btn-1{
+    color: #ffffff;
+    background-color: #111927;
+    height: 50px;
+    width: 100px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+    border-radius: 10px;
+    font-weight: bolder;
+    font-size: 15px;
+
+    transition: 600ms;
+}
+.btn-1:hover{
+    background: #00e1ff;
+    color: #000000;
+    transition: 300ms;
+}
