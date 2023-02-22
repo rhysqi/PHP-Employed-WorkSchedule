@@ -15,7 +15,7 @@
 <center>
     <form method="POST">
         <div>
-            <h1 style="color: white;">ABSENSI KARYAWAN</h1>
+            <h1 style="color: white;">Employee work schedule</h1>
         </div>
         <div class="base">
             <div class="formbase">
